@@ -1,0 +1,8 @@
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+access_key.txt
+public_ip.txt
+secret_key.txt
+terra-example.pem
